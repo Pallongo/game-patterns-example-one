@@ -1,0 +1,20 @@
+# ninja log v5
+1	2072	6688055571876010	CMakeFiles/ProgrammingPatterns.dir/main.cpp.obj	7c0714284e1c7f77
+469	717	6688149611932930	ProgrammingPatterns.exe	a716117aea5258f8
+2	485	6688152696922555	build.ninja	65934c87c28111be
+52	616	6688135857927991	CMakeFiles/ProgrammingPatterns.dir/src/array_pattern.cpp.obj	f3dbaac56472e052
+5	593	6688146370401695	CMakeFiles/ProgrammingPatterns.dir/src/main.cpp.obj	47e29d760759b9fb
+45	208	6688135853828005	CMakeFiles/ProgrammingPatterns.dir/src/array_value.cpp.obj	6e0c32aa9f12f6ef
+4	468	6688149609492856	CMakeFiles/ProgrammingPatterns.dir/src/math_operation.cpp.obj	8efa77d08d2e83f6
+44	587	6688146370361685	CMakeFiles/ProgrammingPatterns.dir/src/input_handler.cpp.obj	f31b8f7b039ab992
+43	807	6688153334192597	CMakeFiles/ProgrammingPatterns.dir/src/math_operation.cpp.obj	8efa77d08d2e83f6
+3	810	6688153334162566	CMakeFiles/ProgrammingPatterns.dir/src/main.cpp.obj	47e29d760759b9fb
+37	815	6688153334222572	CMakeFiles/ProgrammingPatterns.dir/src/array_pattern.cpp.obj	f3dbaac56472e052
+28	817	6688153334202569	CMakeFiles/ProgrammingPatterns.dir/src/input_handler.cpp.obj	f31b8f7b039ab992
+817	1143	6688153337572554	ProgrammingPatterns.exe	a716117aea5258f8
+3	465	6688153942262547	CMakeFiles/ProgrammingPatterns.dir/src/input_handler.cpp.obj	f31b8f7b039ab992
+466	707	6688153944612586	ProgrammingPatterns.exe	a716117aea5258f8
+3	593	6688157955142314	CMakeFiles/ProgrammingPatterns.dir/src/main.cpp.obj	47e29d760759b9fb
+593	921	6688157958382286	ProgrammingPatterns.exe	a716117aea5258f8
+5	450	6688158428155145	CMakeFiles/ProgrammingPatterns.dir/src/main.cpp.obj	47e29d760759b9fb
+450	665	6688158430235135	ProgrammingPatterns.exe	a716117aea5258f8
