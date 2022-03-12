@@ -4,16 +4,20 @@
 This is a simple console application for generating number sets.
 To be more specific: fibonacci sets and base two exponential sets.
 
-<p>Software patterns used:</p>
+<h5>Software patterns used:</h5>
 <ul>
 <li>Command</li>
 <li>Singleton</li>
 </ul>
 
-<p>Code features:</p>
-- Pointer and reference call usage
-- Object oriented architecture: inheritance, polymorphism, constructors
-- Abstract Data Structures: double-linked list
+<h5>Code features:</h5>
 
-Project created using Jetbrains CLion.
+<ul>
+<li>Pointer and reference call usage</li>
+<li>Object oriented architecture: inheritance, polymorphism, constructors</li>
+<li>Abstract Data Structures: double-linked list</li>
+</ul>
+
+<b>Project created using Jetbrains CLion.</b>
+
 
